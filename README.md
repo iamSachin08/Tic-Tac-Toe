@@ -1,0 +1,1 @@
+A classic Tic Tac Toe game developed using React, demonstrating the power of component-based UI and state management. The project includes a clean and responsive interface, real-time game state updates, and an option to restart the game. Ideal for practicing React fundamentals, including hooks and conditional rendering.
